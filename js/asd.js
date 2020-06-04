@@ -1,0 +1,94 @@
+{
+  "date": "2020-07-01",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-02",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-03",
+  "classname": "red"
+}, {
+  "date": "2020-07-04",
+  "classname": "red"
+}, {
+  "date": "2020-07-05",
+  "classname": "red"
+}, {
+  "date": "2020-07-06",
+  "classname": "green"
+}, {
+  "date": "2020-07-07",
+  "classname": "green"
+}, {
+  "date": "2020-07-08",
+  "classname": "green"
+}, {
+  "date": "2020-07-09",
+  "classname": "green"
+}, {
+  "date": "2020-07-10",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-11",
+  "classname": "red"
+}, {
+  "date": "2020-07-12",
+  "classname": "red"
+}, {
+  "date": "2020-07-13",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-14",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-15",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-16",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-17",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-18",
+  "classname": "red"
+}, {
+  "date": "2020-07-19",
+  "classname": "red"
+}, {
+  "date": "2020-07-20",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-21",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-22",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-23",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-24",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-25",
+  "classname": "red"
+}, {
+  "date": "2020-07-26",
+  "classname": "red"
+}, {
+  "date": "2020-07-27",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-28",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-29",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-30",
+  "classname": "yellow"
+}, {
+  "date": "2020-07-31",
+  "classname": "red"
+},
